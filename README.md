@@ -1,0 +1,1 @@
+# StudSync website clone using HTML & CSS.
